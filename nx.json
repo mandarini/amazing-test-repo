@@ -60,5 +60,7 @@
         "linter": "eslint"
       }
     }
-  }
+  },
+  "nxCloudAccessToken": "YzhhNGM2MjEtZTkzYy00NWY2LWExMTYtMDliMTVjOTUxYWU2fHJlYWQtd3JpdGU=",
+  "nxCloudUrl": "https://staging.nx.app"
 }
